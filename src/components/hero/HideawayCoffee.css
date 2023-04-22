@@ -1,0 +1,36 @@
+
+
+@font-face {
+  font-family: 'Ultra';
+  src: url('../../asset/Ultra-Regular.ttf');
+  /* add other font formats and their URLs as needed */
+}
+
+.hideaway-coffee {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.hideaway-coffee h1 {
+  font-size: 56px;
+  margin: 0;
+  color: black;
+  font-family: 'san serif';
+  font-weight: lighter;
+
+}
+
+.hideaway-coffee h2 {
+  font-size: 13px;
+  
+  margin: 0;
+}
+
+.hideaway-coffee button {
+  background-color: #88b06a;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}

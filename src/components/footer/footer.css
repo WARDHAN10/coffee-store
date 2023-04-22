@@ -1,0 +1,19 @@
+.coffee-shop {
+  background-color: #F5F5F5;
+  color: #444;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+.coffee-shop a {
+  color: #444;
+  text-decoration: none;
+  font-weight: bold;
+}
+.coffee-shop a:hover {
+  color: #000;
+}
+.coffee-shop p {
+  margin: 0;
+  padding: 10px 0;
+}
